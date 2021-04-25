@@ -1,0 +1,2 @@
+# newsletters
+Newsletters plugin development
